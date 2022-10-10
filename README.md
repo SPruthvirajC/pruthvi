@@ -1,2 +1,3 @@
-# pruthvi
-day 03 code
+# yuyamei
+Day02 of Daily code
+http://atomstudios.me/yuyamei/
